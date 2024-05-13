@@ -8,4 +8,4 @@
 
 4) Faça um programa que receba três notas de um aluno e calcule sua média.
 
-5)Crie um programa que pergunte ao usuário a quantidade de dias, horas, minutos e segundos, e calcule o total em segundos.
+5) Crie um programa que pergunte ao usuário a quantidade de dias, horas, minutos e segundos, e calcule o total em segundos.
