@@ -1,3 +1,9 @@
+#Curso basico de Python
+#Nome do desenvolvedor: Guilherme Xavier Dos Santos
+#versão 1.0
+#Exercicio de logica de programação
+#sistema para medir o imc
+
 print("Olá Digite a sua altura e o seu peso")
 nome = input("informe seu nome:")
 

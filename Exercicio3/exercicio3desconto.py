@@ -1,3 +1,10 @@
+#Curso basico de Python
+#Nome do desenvolvedor: Guilherme Xavier Dos Santos
+#versão 1.0
+#Exercicio de logica de programação
+#sitema para para desconto
+
+
 def calcular_valor_final(valor_produto, percentual_desconto):
     desconto = valor_produto * (percentual_desconto / 100)
     valor_final = valor_produto - desconto
